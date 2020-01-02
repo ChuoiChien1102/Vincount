@@ -1,0 +1,10 @@
+ib:
+   inputs: Vincount/Sources/Presentation/Storyboards
+   outputs:
+     - templateName: scenes-swift4
+       output: Vincount/Generated/Storyboards/Storyboards.swift
+
+colors:
+    paths: Vincount/Resources/Colors.json
+    templateName: swift4
+    output: Vincount/Generated/Colors/Colors.swift
